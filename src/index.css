@@ -48,3 +48,16 @@
   color: #3b89a7;
   margin-bottom: 8px;
 }
+.blog-preview a {
+  text-decoration: none;
+}
+
+/* Blog details */
+.blog-details h2 {
+  font-size: 20px;
+  color: #3b89a7;
+  margin-bottom: 10px;
+}
+.blog-details div {
+  margin: 20px 0;
+}
