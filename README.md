@@ -1,4 +1,4 @@
-# A Blog App Created using Modern React Updated Version 17.0.1
+# A Blog App Created using Modern React 17.0.1
 
 This application has some basic functionality like CRUD operations using all new functionalities added in updated react version.
 
