@@ -1,3 +1,24 @@
+# A Blog App Created using Modern React Updated Version 17.0.1
+
+This application has some basic functionality like CRUD operations using all new functionalities added in updated react version.
+
+# To run this app follow the below steps
+
+- Clone this repository or download the zip file and extract.
+- Inside the react-blog folder open command prompt or terminal and install the dependencies using `npm install`.
+- Install the json-server in your system globally `npm install -g json-server` or [Click Here](https://www.npmjs.com/package/json-server).
+  - json-server is Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
+- First start the backend server with this command inside project repository `json-server --watch data/db.json --port 8000`.
+- Now run the frontend app with this command inside project repository `npm start`.
+
+# Some sample screenshots of Blog App
+
+![Blog App screenshots](blog-1.png?raw=true "Blog App screenshots")
+
+![Blog App screenshots](blog-2.png?raw=true "Blog App screenshots")
+
+![Blog App screenshots](blog-3.png?raw=true "Blog App screenshots")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
